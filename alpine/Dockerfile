@@ -1,4 +1,5 @@
-FROM alpine:3.6
+#FROM alpine:3.6
+FROM resin/raspberry-pi-alpine:3.6
 
 ENV LANG=en_US.UTF-8
 
